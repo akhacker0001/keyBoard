@@ -1,0 +1,125 @@
+.container{
+    height: 200px;
+    width: 1004px;
+    margin: auto;
+    border: 1px solid black;
+    margin-top: 250px;
+}
+button{
+    margin: 2px;
+    outline: none;
+    background-color: rgb(136, 114, 114);
+    color: white;
+    border: transparent;
+}
+
+
+/* start class */
+.functionButton{
+    height: 25px;
+    width: 55px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+
+}
+.numericKey{
+    height: 30px;
+    width: 59px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.alphabeticKey{
+    height: 30px;
+    width: 59px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+
+
+/* end class */
+
+ /* start id  */
+ #backSpace{
+    height: 30px;
+    width: 125px;
+}
+#Acute{
+    height: 30px;
+    width: 61px;
+}
+
+#tab{
+    height: 30px;
+    width: 85px;
+}
+#backSlash{
+    height: 30px;
+    width: 100px;
+}
+#capsLock{
+    height: 30px;
+    width: 110px;
+}
+
+#enter{
+    height: 30px;
+    width: 142px;
+}
+#shift{
+    height: 30px;
+    width: 135px;
+}
+#shift1{
+    height: 30px;
+    width: 118px;
+}
+
+#up{
+    height: 30px;
+    width: 25px;
+}
+#ctrl{
+    height: 30px;
+    width: 87px;
+}
+#spaceBar{
+    height: 30px;
+    width: 350px;
+}
+#ctrl1{
+    height: 30px;
+    width: 110px;
+}
+#left{
+    height: 30px;
+    width: 25px;
+}
+ 
+#down{
+    height: 30px;
+    width: 25px;
+}
+#right{
+    height: 30px;
+    width: 25px;
+}
+
+/* id end */
+
+
+
+/* Styling  buttons */
+
+
+
+.prassed{
+    background-color:red;
+    /* color: blue; */
+    box-shadow: 2px 2px 5px 2px red;
+}
+
